@@ -1,9 +1,8 @@
 # singh_j_project1
-Web Development 1 - Project 1 Setting up folders and files
 
 # Description
 
-Project	1:	CSS	Reset,	Linking	JS,	Wireframes,	GitHub.
+Web Development Project	1:	CSS	Reset,	Linking	JS,	Wireframes,	GitHub.
 Setting up folders and files.
 
 # Installation
